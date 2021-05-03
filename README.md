@@ -8,6 +8,8 @@
      * If they are not numbers, use template literals to print the input along with a message informing that the input is not a number.
    * Ensure that `lowerLimit` is smaller than `upperLimit`.
      * If input for `lowerLimit` is larger than `upperLimit`, use template literals print a statement informing the user that the lowerLimit is larger than the upperLimit.
+   * <img src="resources/img/genbuzz-example.png"> 
+     
 
 
 2. Leap Year
@@ -16,7 +18,7 @@
 
     Every year that is exactly divisible by four is a leap year, except for years that are exactly divisible by 100, but these centurial years are leap years if they are exactly divisible by 400. For example, the years 1700, 1800, and 1900 are not leap years, but the year 2000 is.
 
-    Write a program that returns a message informing a user whether or not the year that is input is a leap year. Ex. When `isLeapYear(2000)` is called return the value `2000 is a Leap Year`. Test your code by printing the funcition's output to the console.
+    Write a program that returns a message informing a user whether or not the year that is input is a leap year. Ex. When `isLeapYear(2000)` is called, it should return the value `2000 is a Leap Year`. Test your code by printing the funcition's output to the console.
 
 3. Random Exercise Generator
 
@@ -24,7 +26,7 @@
 
     * Array Items: Push-ups, Sit-ups, Bear Crawls, 1 mile run, 60 second plank, Burpees, Jumping Jacks, Squats, Weighted Squats, Inch Worms
 
-    * Example:
+    * 
      <img src="resources/img/random-exercises.png">
 
 4. Perfect Square
