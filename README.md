@@ -1,4 +1,4 @@
-# Please Fork and Clone project prior to working on problems (instructions listed below)
+# Please Fork and Clone project prior to working on problems (instructions listed below).
 
 1. GenBuzz Function
         
