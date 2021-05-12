@@ -86,9 +86,15 @@ randomExercises(12);
 //Write your code below this line:
 
 const perfectSquare = (num) => {
-    for (let i = 1; i < num; i++) {
+    for (let i = 1; i <= num; i++) {
         if (i * i === num) {
-            console.log(`$`) //return true?
+            return true;
         }
-    }
+    } return false;
 }
+
+console.log(perfectSquare(1));
+console.log(perfectSquare(2));
+console.log(perfectSquare(16));
+console.log(perfectSquare(4));
+
